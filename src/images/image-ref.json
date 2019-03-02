@@ -1,0 +1,57 @@
+[
+  {
+    "ref" : "./bombay-card-large.jpg",
+    "id" : 0,
+    "clicked" : false
+  },
+  {
+    "ref" : "./british-shorthair-card-large.jpg",
+    "id" : 1,
+    "clicked" : false
+  },
+  {
+    "ref" : "./chartreux-card-large.jpg",
+    "id" : 2,
+    "clicked" : false
+  },
+  {
+    "ref" : "./egyptian-mau-card-large.jpg",
+    "id" : 3,
+    "clicked" : false
+  },
+  {
+    "ref" : "./exotic-shorthair-card-large.jpg",
+    "id" : 4,
+    "clicked" : false
+  },
+  {
+    "ref" : "./himalayan-card-large.jpg",
+    "id" : 5,
+    "clicked" : false
+  },
+  {
+    "ref" : "./japanese-bobtail-card-large.jpg",
+    "id" : 6,
+    "clicked" : false
+  },
+  {
+    "ref" : "./nebelung-card-large.jpg",
+    "id" : 7,
+    "clicked" : false
+  },
+  {
+    "ref" : "./norwegian-forest.jpg",
+    "id" : 8,
+    "clicked" : false
+  },
+  {
+    "ref" : "./persian-card-large.jpg",
+    "id" : 9,
+    "clicked" : false
+  },
+  {
+    "ref" : "./tabby.jpg",
+    "id" : 10,
+    "clicked" : false
+  }
+]
